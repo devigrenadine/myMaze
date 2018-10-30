@@ -1,7 +1,6 @@
 ## Read me
 
 Maze implementation:
-IDE used JetBrains
 
 The maze implementation is comprised by the following classes:
 
