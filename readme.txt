@@ -27,6 +27,4 @@ These tests do not cover all possible scenarios, serve for demonstration
 References:
 https://www.cs.bu.edu/teaching/alg/maze/ 
 https://www.sitepoint.com/graph-algorithms-ruby/
-https://rosettacode.org/wiki/Maze_solving	
-https://gist.github.com/RLGGHC/272640/bf7b72305e47b15f0ae94d886eef6adac75d8bb4
-	
+https://rosettacode.org/wiki/Maze_solving
